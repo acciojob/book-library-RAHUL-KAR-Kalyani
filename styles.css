@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+*{
+	margin:0;
+	padding:0;
+}
+.book{
+	margin:10px;
+	text-align:center;
+}
+.book h3,.book .author{
+	text-align:left;
+	color:gray;
+}
+.book h3{
+	color:black;
+	font-weight:boldl
+}
+.book>.price{
+	background-color:#4cbd2d;
+	padding:5px;
+}
